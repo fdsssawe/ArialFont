@@ -1,0 +1,19 @@
+{
+  "name": "arial-for-vercel",
+  "version": "1.0.0",
+  "description": "arial font for vercel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arial",
+    "font",
+    "vercel",
+    "registerFont",
+    "path"
+  ],
+  "author": "mdsync",
+  "license": "ISC"
+}
