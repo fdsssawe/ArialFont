@@ -1,6 +1,6 @@
 {
   "name": "arial-for-vercel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "arial font for vercel",
   "main": "index.js",
   "type": "module",
@@ -15,5 +15,8 @@
     "path"
   ],
   "author": "mdsync",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "arial-for-vercel": "^1.0.1"
+  }
 }
