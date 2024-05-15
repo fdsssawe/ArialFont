@@ -4,6 +4,6 @@ import { dirname, join } from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const ArialPath = join(__dirname, "Arial.ttf");
+const ArialPath = join(__dirname, "Arial.TTF");
 
 export default ArialPath;

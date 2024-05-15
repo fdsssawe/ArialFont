@@ -1,6 +1,6 @@
 {
   "name": "arial-for-vercel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "arial font for vercel",
   "main": "index.js",
   "type": "module",
